@@ -17,7 +17,7 @@ Climate / ENSO-related dataset: ERA5 monthly-averaged reanalysis on single level
 - Example reference DOI for ERA5 monthly means: 10.5065/D63B5XW1 (ERA5 monthly reanalysis via NCAR GDEX)
 
 ## Domain and Resolution
-Spatial domain: 60° S to 60° N, global longitude (0–360°)
-Spatial resolution: ~1° or 0.75°, depending on what I download
-Temporal resolution: monthly means
-Period: 2003–2020 (~18 years, ~216 monthly time steps)
+- Spatial domain: 60° S to 60° N, global longitude (0–360°)
+- Spatial resolution: ~1° or 0.75°, depending on what I download
+- Temporal resolution: monthly means
+- Period: 2003–2020 (~18 years, ~216 monthly time steps)
