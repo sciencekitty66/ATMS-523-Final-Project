@@ -5,7 +5,7 @@ This repository encompasses the materials required for the Module 8 Project Subm
 ENSO and the Carbon Cycle: Linking Atmospheric CO₂ Variability to Sea Surface Temperature Anomalies Using Reanalysis Data
 
 ## Research Objectives
-The goal of this project is to investigate how large-scale climate variability associated with ENSO influences atmospheric CO₂ variability. I will (1) compute deseasonalized CO₂ anomalies and identify their leading modes of variability using EOF analysis, and (2) relate those CO₂ modes to sea surface temperature (SST) anomalies and an ENSO index. The broader objective is to see whether CO₂ variability reflects ENSO-driven changes in land and ocean carbon fluxes (e.g., drought, fires, upwelling) and to quantify the strength and spatial pattern of these relationships.
+The goal of this project is to investigate how large-scale climate variability associated with ENSO influences atmospheric CO₂ variability. I will (1) compute deseasonalized CO₂ anomalies and identify their leading modes of variability using EOF analysis, and (2) relate those CO₂ modes to sea surface temperature (SST) anomalies and an ENSO index. The broader objective is to quantify the strength and spatial pattern of these relationships.
 
 ## Datasets
 Primary CO₂ dataset: Copernicus Atmosphere Monitoring Service (CAMS) global greenhouse gas reanalysis (EGG4), which provides global fields of atmospheric CO₂ at regular time intervals from 2003 onward. 
